@@ -1,0 +1,2 @@
+[INFO] : File reading started
+[ERROR] : Error with biometric model
