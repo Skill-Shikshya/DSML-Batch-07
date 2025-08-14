@@ -1,0 +1,321 @@
+gender,matric_%,study_year,faculty,gpa_2023,accomodation,allowance,scholarship,study_hours,party_week,drinks_night,missed_classes,failed_classes,in_relationship,parent_approve,relation_parent
+Female,76.0,2nd Year,Arts & Social Sciences,72.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,Only weekends,8+,3,0,Yes,Yes,Very close
+Male,89.0,2nd Year,Economic & Management Sciences,75.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,"Yes (NSFAS, etc...)",8+,Only weekends,3-5,4+,0,No,Yes,Very close
+Male,76.0,1st Year,AgriSciences,55.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,2,8+,3,0,No,Yes,Very close
+Male,89.0,2nd Year,Engineering,84.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,3-5,3,8+,2,0,Yes,Yes,Very close
+Female,74.0,2nd Year,Arts & Social Sciences,52.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,Only weekends,5-8,1,3,No,Yes,Fair
+Male,80.0,2nd Year,Economic & Management Sciences,54.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,2,5-8,1,0,No,Yes,Very close
+Female,85.0,2nd Year,Arts & Social Sciences,75.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,3,3-5,2,0,Yes,Yes,Very close
+Female,80.0,2nd Year,Arts & Social Sciences,75.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,3,8+,0,0,No,Yes,Close
+Male,79.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,2,3-5,2,4+,No,Yes,Very close
+Female,72.0,2nd Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,1-3,1,3-5,0,0,Yes,Yes,Very close
+Female,87.0,1st Year,Science,75.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,Only weekends,1-3,0,0,No,Yes,Very close
+Male,74.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,4+,5-8,0,0,Yes,Yes,Very close
+Male,69.0,2nd Year,Arts & Social Sciences,55.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,Only weekends,5-8,3,3,No,Yes,Very close
+Male,79.0,2nd Year,Economic & Management Sciences,54.0,Non-private accommodation ie. Res,R 5001 - R 6000,No,5-8,2,0,0,1,No,Yes,Fair
+Male,80.0,2nd Year,Engineering,62.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",8+,Only weekends,5-8,0,2,No,Yes,Very close
+Female,83.0,2nd Year,Law,55.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,Only weekends,3-5,2,4+,No,Yes,Very close
+Female,78.0,1st Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,2,3-5,2,0,No,Yes,Very close
+Male,74.0,2nd Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,3-5,2,8+,2,2,No,Yes,Very close
+Male,83.0,3rd Year,Engineering,69.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,Only weekends,3-5,0,0,Yes,Yes,Very close
+Male,79.0,2nd Year,Engineering,60.0,Private accommodation/ stay with family/friends,R 8000+,No,5-8,Only weekends,8+,1,3,No,Yes,Very close
+Female,83.0,2nd Year,Economic & Management Sciences,55.0,Non-private accommodation ie. Res,R 5001 - R 6000,No,8+,Only weekends,1-3,0,1,No,Yes,Very close
+Female,79.0,1st Year,Economic & Management Sciences,74.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,3-5,3,5-8,0,0,No,Yes,Very close
+Male,87.0,2nd Year,Engineering,70.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,1,5-8,0,0,No,Yes,Very close
+Male,84.0,1st Year,Engineering,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,Only weekends,5-8,0,0,No,Yes,Very close
+Male,86.0,2nd Year,Economic & Management Sciences,54.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,1,5-8,2,1,Yes,Yes,Very close
+Female,80.0,2nd Year,Science,75.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,1,3-5,0,1,Yes,Yes,Very close
+Male,80.0,1st Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,0,8+,2,0,No,Yes,Very close
+Male,78.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,2,5-8,2,0,No,Yes,Very close
+Male,73.0,1st Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,1,8+,2,3,Yes,Yes,Close
+Male,,2nd Year,Economic & Management Sciences,90.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,3-5,3,4+,No,Yes,Very close
+Female,82.6,2nd Year,Arts & Social Sciences,75.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,3,1-3,0,0,Yes,Yes,Close
+Female,78.0,1st Year,Economic & Management Sciences,78.0,Private accommodation/ stay with family/friends,R 8000+,No,1-3,3,5-8,2,0,Yes,Yes,Close
+Female,65.0,2nd Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,1,3-5,2,4+,Yes,Yes,Very close
+Male,84.0,2nd Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,1,8+,4+,0,Yes,Yes,Very close
+Male,81.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,1-3,2,5-8,0,3,Yes,Yes,Very close
+Male,76.0,1st Year,Arts & Social Sciences,61.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,1,1-3,0,0,Yes,Yes,Very close
+Male,76.0,2nd Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,0,5-8,0,0,Yes,Yes,Close
+Female,88.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,1,1-3,0,1,Yes,Yes,Very close
+Male,75.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,R 8000+,No,5-8,Only weekends,1-3,1,2,No,Yes,Close
+Male,84.0,1st Year,Science,74.0,Non-private accommodation ie. Res,R 4001- R 5000,No,1-3,1,1-3,0,0,No,Yes,Close
+Male,,1st Year,Engineering,89.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",1-3,Only weekends,8+,0,4+,Yes,No,Distant
+Male,72.0,2nd Year,Arts & Social Sciences,76.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,1,1-3,0,0,Yes,Yes,Close
+Female,84.0,1st Year,Medicine and Health Services,80.0,Non-private accommodation ie. Res,R 6001 - R 7000,No,8+,Only weekends,5-8,2,0,No,Yes,Very close
+Male,85.0,2nd Year,Economic & Management Sciences,66.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",8+,1,8+,4+,0,Yes,Yes,Fair
+Female,84.0,1st Year,Medicine and Health Services,80.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,Only weekends,3-5,0,0,No,Yes,Very close
+Female,90.0,2nd Year,Law,70.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,Only weekends,3-5,0,3,No,Yes,Very close
+Female,72.0,3rd Year,Education,65.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,3-5,2,5-8,0,1,No,Yes,Very close
+Female,78.0,1st Year,Science,75.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,3,3-5,2,0,No,Yes,Close
+Female,83.0,2nd Year,Engineering,63.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,Only weekends,3-5,0,0,No,Yes,Close
+Female,85.0,1st Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,1,1-3,0,0,Yes,Yes,Very close
+Female,81.0,2nd Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,"Yes (NSFAS, etc...)",8+,Only weekends,3-5,1,1,No,Yes,Very close
+Female,84.0,1st Year,Science,75.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,1,3-5,3,0,Yes,Yes,Very close
+Male,76.0,2nd Year,Science,65.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,1,0,0,0,Yes,Yes,Very close
+Female,80.0,2nd Year,Engineering,61.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,3-5,Only weekends,1-3,0,0,Yes,Yes,Close
+Male,85.0,4th Year,AgriSciences,76.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,2,8+,0,0,Yes,Yes,Very close
+Female,84.0,2nd Year,Science,65.0,Non-private accommodation ie. Res,Unknown,"Yes (NSFAS, etc...)",5-8,1,1-3,0,0,Yes,Yes,Very close
+Male,85.0,1st Year,Arts & Social Sciences,58.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,Only weekends,5-8,2,0,No,Yes,Very close
+Female,,2nd Year,Economic & Management Sciences,,Non-private accommodation ie. Res,R 4001- R 5000,No,8+,1,0,0,0,No,Yes,Close
+Female,70.0,1st Year,AgriSciences,60.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,3,1-3,0,1,No,No,Very close
+Male,75.0,2nd Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,1,5-8,0,2,Yes,Yes,Very close
+Female,76.0,2nd Year,Law,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,3,5-8,2,0,No,Yes,Very close
+Male,75.0,2nd Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,2,8+,0,0,Yes,No,Very close
+Male,86.0,3rd Year,AgriSciences,55.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,"Yes (NSFAS, etc...)",1-3,1,8+,1,3,No,Yes,Very close
+Female,80.0,3rd Year,Medicine and Health Services,71.0,Private accommodation/ stay with family/friends,R 8000+,No,5-8,Only weekends,1-3,0,0,No,Yes,Very close
+Female,75.0,3rd Year,Arts & Social Sciences,60.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,1,8+,0,0,Yes,Yes,Very close
+Female,75.0,2nd Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,R 8000+,No,5-8,1,5-8,3,0,No,Yes,Very close
+Female,80.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,Only weekends,5-8,0,1,Yes,Yes,Very close
+Female,75.0,3rd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,Only weekends,5-8,0,1,No,Yes,Very close
+Female,85.0,3rd Year,Science,84.0,Non-private accommodation ie. Res,R 5001 - R 6000,"Yes (NSFAS, etc...)",8+,2,5-8,0,0,Yes,Yes,Very close
+Female,79.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,1,5-8,1,2,No,Yes,Very close
+Male,78.16569182389938,3rd Year,Medicine and Health Services,61.0,Non-private accommodation ie. Res,R 4001- R 5000,"Yes (NSFAS, etc...)",1-3,Only weekends,3-5,0,1,No,Yes,Very close
+Female,78.0,2nd Year,Law,66.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,3-5,1,5-8,3,1,No,Yes,Very close
+Male,65.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,2,3-5,1,0,No,Yes,Very close
+Female,82.0,2nd Year,Engineering,53.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,1,5-8,2,4+,No,Yes,Very close
+Female,77.0,1st Year,AgriSciences,62.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,Only weekends,3-5,0,0,No,Yes,Very close
+Female,85.0,2nd Year,Science,65.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,1,5-8,3,0,No,Yes,Very close
+Female,81.0,3rd Year,Arts & Social Sciences,62.0,Private accommodation/ stay with family/friends,R 8000+,No,5-8,Only weekends,5-8,1,1,Yes,Yes,Close
+Male,77.0,2nd Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,2,8+,1,1,No,Yes,Very close
+Male,82.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,8+,1,0,No,Yes,Fair
+Female,73.0,3rd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,3,5-8,1,0,No,Yes,Close
+Male,70.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,3-5,1,3-5,0,0,Yes,Yes,Very close
+Male,75.0,3rd Year,AgriSciences,64.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,2,3-5,1,0,No,Yes,Very close
+Male,78.0,2nd Year,Economic & Management Sciences,62.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,1,5-8,1,1,No,Yes,Very close
+Female,73.0,1st Year,Arts & Social Sciences,69.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,3-5,2,3-5,0,0,Yes,Yes,Very close
+Male,74.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,5-8,Only weekends,5-8,2,1,No,No,Fair
+Male,77.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,1-3,0,0,Yes,No,Very close
+Male,80.0,2nd Year,Engineering,60.0,Private accommodation/ stay with family/friends,R 8000+,No,0,1,0,4+,0,Yes,Yes,Very close
+Female,78.0,1st Year,Economic & Management Sciences,66.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",3-5,Only weekends,5-8,2,3,Yes,No,Very close
+Male,75.0,1st Year,Science,50.0,Non-private accommodation ie. Res,R 4001- R 5000,No,8+,Only weekends,3-5,0,3,No,No,Very close
+Male,72.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,0,1,8+,0,0,No,Yes,Fair
+Male,80.0,3rd Year,Science,65.0,Private accommodation/ stay with family/friends,R 8000+,No,5-8,1,3-5,0,1,Yes,Yes,Close
+Male,75.0,2nd Year,Economic & Management Sciences,72.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,0,Only weekends,8+,4+,0,No,Yes,Close
+Female,73.0,2nd Year,Economic & Management Sciences,62.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,2,3-5,1,2,Yes,Yes,Very close
+Female,86.0,3rd Year,Science,76.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,1,5-8,1,0,No,Yes,Close
+Male,70.0,1st Year,AgriSciences,75.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,Only weekends,5-8,0,0,Yes,Yes,Very close
+Male,85.0,1st Year,Science,88.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",8+,Only weekends,0,0,0,Yes,Yes,Distant
+Female,72.0,2nd Year,Arts & Social Sciences,61.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,Only weekends,1-3,0,0,Yes,Yes,Very close
+Male,73.0,1st Year,Economic & Management Sciences,52.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,2,1-3,1,4+,No,Yes,Very close
+Female,76.0,Postgraduate,Economic & Management Sciences,79.0,Private accommodation/ stay with family/friends,R 8000+,No,5-8,2,1-3,0,0,No,Yes,Very close
+Male,76.0,1st Year,Engineering,56.0,Non-private accommodation ie. Res,R 4001- R 5000,No,8+,Only weekends,1-3,0,0,Yes,Yes,Close
+Male,82.0,2nd Year,Arts & Social Sciences,70.0,Non-private accommodation ie. Res,R 4001- R 5000,No,1-3,2,8+,4+,0,Yes,Yes,Close
+Male,82.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,1,5-8,0,0,No,Yes,Very close
+Male,68.0,2nd Year,AgriSciences,57.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,1,5-8,1,3,Yes,No,Close
+Female,84.0,1st Year,Science,64.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,2,3-5,1,0,No,Yes,Very close
+Male,79.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 8000+,No,8+,1,5-8,2,2,No,No,Close
+Male,89.0,2nd Year,Economic & Management Sciences,74.0,Non-private accommodation ie. Res,R 4001- R 5000,No,3-5,1,3-5,0,0,No,Yes,Very close
+Female,82.0,2nd Year,Education,73.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,Only weekends,5-8,0,0,Yes,Yes,Close
+Female,83.0,2nd Year,Economic & Management Sciences,51.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,Only weekends,1-3,0,4+,Yes,Yes,Fair
+Male,83.0,2nd Year,Engineering,60.0,Non-private accommodation ie. Res,R 4001- R 5000,No,5-8,3,5-8,4+,1,No,Yes,Very close
+Female,76.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,3,5-8,2,2,No,Yes,Very close
+Male,82.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,Unknown,"Yes (NSFAS, etc...)",1-3,0,0,0,0,No,No,Close
+Female,76.0,1st Year,Arts & Social Sciences,54.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,4+,5-8,4+,3,Yes,Yes,Very close
+Male,78.0,1st Year,Science,65.0,Non-private accommodation ie. Res,R 5001 - R 6000,No,1-3,Only weekends,0,0,2,No,Yes,Very close
+Male,79.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,2,3-5,3,3,Yes,Yes,Very close
+Female,72.0,1st Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,1,0,0,1,No,Yes,Very close
+Male,70.0,Postgraduate,AgriSciences,68.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,3,3-5,2,0,No,Yes,Very close
+Male,72.0,2nd Year,Economic & Management Sciences,53.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,8+,0,4+,Yes,Yes,Close
+Female,74.0,1st Year,Economic & Management Sciences,73.0,Non-private accommodation ie. Res,Unknown,"Yes (NSFAS, etc...)",3-5,1,3-5,0,0,Yes,No,Close
+Female,76.0,1st Year,Economic & Management Sciences,50.0,Non-private accommodation ie. Res,R 7001 - R 8000,No,0,Only weekends,5-8,0,4+,Yes,Yes,Very close
+Female,81.0,1st Year,AgriSciences,64.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,1,5-8,1,0,No,No,Close
+Female,85.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,2,1-3,4+,0,Yes,Yes,Very close
+Female,85.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,2,1-3,4+,0,Yes,Yes,Very close
+Female,80.0,2nd Year,Economic & Management Sciences,50.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,1,1-3,0,1,Yes,Yes,Very close
+Female,84.0,2nd Year,Economic & Management Sciences,68.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,3,3-5,1,0,No,Yes,Very close
+Male,69.0,4th Year,AgriSciences,65.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,5-8,2,8+,2,2,No,Yes,Very close
+Male,76.0,4th Year,Economic & Management Sciences,71.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,1,5-8,0,0,No,Yes,Very close
+Female,78.0,2nd Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,Only weekends,3-5,2,1,No,Yes,Close
+Male,72.0,3rd Year,AgriSciences,60.0,Private accommodation/ stay with family/friends,Unknown,"Yes (NSFAS, etc...)",3-5,Only weekends,5-8,2,4+,No,Yes,Close
+Female,88.0,2nd Year,Economic & Management Sciences,72.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,1,1-3,1,0,Yes,Yes,Fair
+Female,92.0,3rd Year,Science,70.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,3-5,4+,8+,2,0,No,Yes,Very close
+Male,74.0,3rd Year,Economic & Management Sciences,77.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,3-5,1,8+,1,0,Yes,Yes,Very close
+Male,78.0,2nd Year,AgriSciences,60.0,Non-private accommodation ie. Res,R 4001- R 5000,No,0,3,8+,4+,0,No,Yes,Close
+Female,90.0,1st Year,Economic & Management Sciences,75.0,Non-private accommodation ie. Res,R 4001- R 5000,"Yes (NSFAS, etc...)",3-5,Only weekends,1-3,0,1,No,Yes,Close
+Male,84.0,2nd Year,Economic & Management Sciences,68.0,Non-private accommodation ie. Res,R 4001- R 5000,No,1-3,4+,5-8,0,0,No,Yes,Close
+Female,91.86,2nd Year,Economic & Management Sciences,65.89,Private accommodation/ stay with family/friends,Unknown,"Yes (NSFAS, etc...)",8+,0,0,0,1,No,No,Very close
+Male,80.0,4th Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,Only weekends,5-8,0,2,Yes,Yes,Very close
+Male,71.0,2nd Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,Only weekends,8+,2,2,Yes,Yes,Very close
+Female,80.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,3-5,1,1-3,1,0,Yes,No,Very close
+Female,75.0,2nd Year,Arts & Social Sciences,80.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,3-5,Only weekends,5-8,0,0,No,Yes,Close
+Male,82.0,2nd Year,Economic & Management Sciences,69.0,Non-private accommodation ie. Res,R 4001- R 5000,No,0,4+,8+,0,0,No,No,Very close
+Female,80.0,2nd Year,Arts & Social Sciences,70.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,3,3-5,4+,0,Yes,Yes,Very close
+Male,73.0,2nd Year,Economic & Management Sciences,73.5,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,Only weekends,3-5,0,0,Yes,Yes,Very close
+Female,84.0,2nd Year,Science,70.0,Private accommodation/ stay with family/friends,Unknown,No,8+,1,5-8,0,0,Yes,Yes,Very close
+Male,63.0,1st Year,Economic & Management Sciences,68.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,3,8+,1,0,No,Yes,Close
+Female,74.0,3rd Year,AgriSciences,63.0,Private accommodation/ stay with family/friends,Unknown,"Yes (NSFAS, etc...)",3-5,Only weekends,0,0,0,No,No,Close
+Female,79.0,1st Year,Education,77.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,"Yes (NSFAS, etc...)",5-8,3,1-3,0,0,No,Yes,Very close
+Female,81.0,2nd Year,Science,70.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,Only weekends,1-3,0,1,No,No,Very close
+Female,82.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,2,1-3,0,4+,No,Yes,Very close
+Female,75.0,3rd Year,Economic & Management Sciences,50.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,0,Only weekends,3-5,0,4+,Yes,Yes,Very close
+Female,78.16569182389938,1st Year,Science,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,2,0,1,1,No,Yes,Very close
+Female,72.0,1st Year,Arts & Social Sciences,73.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,Only weekends,5-8,0,0,No,Yes,Close
+Female,70.0,2nd Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",1-3,3,0,0,1,Yes,Yes,Fair
+Female,86.0,2nd Year,Science,75.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,3-5,0,0,No,Yes,Fair
+Male,76.0,1st Year,AgriSciences,62.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,1,5-8,3,0,No,Yes,Very close
+Male,80.0,1st Year,Economic & Management Sciences,63.0,Non-private accommodation ie. Res,R 4001- R 5000,No,8+,3,5-8,3,0,No,Yes,Fair
+Male,76.0,3rd Year,Science,62.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,1,5-8,1,3,Yes,No,Fair
+Male,75.0,1st Year,Science,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,3,8+,3,2,No,Yes,Very close
+Female,83.0,3rd Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,Only weekends,1-3,0,1,Yes,Yes,Very close
+Female,70.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,2,5-8,1,0,Yes,Yes,Very close
+Female,70.0,1st Year,Science,57.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,"Yes (NSFAS, etc...)",8+,Only weekends,1-3,0,1,Yes,Yes,Very close
+Female,81.0,2nd Year,Arts & Social Sciences,72.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",3-5,2,3-5,0,0,No,Yes,Very close
+Male,75.0,2nd Year,Science,50.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,1-3,Only weekends,3-5,0,4+,Yes,Yes,Close
+Male,83.0,2nd Year,Economic & Management Sciences,51.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,3-5,0,4+,Yes,Yes,Very close
+Male,92.0,4th Year,Economic & Management Sciences,88.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,Only weekends,1-3,0,0,No,Yes,Very close
+Male,72.0,1st Year,Economic & Management Sciences,54.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,1-3,3,8+,4+,3,No,Yes,Very close
+Female,83.0,1st Year,Science,68.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,3,1-3,0,0,No,Yes,Very close
+Male,79.0,2nd Year,Economic & Management Sciences,59.0,Non-private accommodation ie. Res,R 4001- R 5000,No,8+,1,5-8,0,3,No,Yes,Very close
+Male,67.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,2,5-8,2,0,No,Yes,Close
+Male,67.0,1st Year,Economic & Management Sciences,77.0,Non-private accommodation ie. Res,R 5001 - R 6000,No,5-8,2,8+,0,0,No,Yes,Very close
+Female,71.0,1st Year,Economic & Management Sciences,62.0,Private accommodation/ stay with family/friends,R 8000+,No,3-5,Only weekends,1-3,0,1,No,Yes,Very close
+Male,78.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,0,0,0,1,No,No,Very close
+Female,83.0,1st Year,Economic & Management Sciences,84.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,0,2,0,0,0,Yes,Yes,Fair
+Female,76.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,R 8000+,No,3-5,Only weekends,3-5,0,1,No,Yes,Very close
+Female,75.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 8000+,No,0,3,8+,1,0,Yes,Yes,Very close
+Male,80.0,3rd Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,2,5-8,3,0,Yes,Yes,Very close
+Female,78.0,1st Year,Economic & Management Sciences,80.0,Non-private accommodation ie. Res,R 6001 - R 7000,No,1-3,2,5-8,1,0,Yes,Yes,Close
+Female,67.0,1st Year,Economic & Management Sciences,78.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,1,5-8,1,1,Yes,Yes,Very close
+Female,70.0,2nd Year,Economic & Management Sciences,76.0,Non-private accommodation ie. Res,R 4001- R 5000,No,1-3,2,3-5,1,0,No,Yes,Very close
+Female,67.0,2nd Year,Arts & Social Sciences,63.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,Only weekends,1-3,0,2,No,No,Close
+Male,85.0,3rd Year,Science,65.0,Non-private accommodation ie. Res,R 5001 - R 6000,No,3-5,0,5-8,0,2,No,Yes,Close
+Female,73.0,2nd Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,Only weekends,1-3,0,2,No,No,Fair
+Male,84.0,2nd Year,Economic & Management Sciences,67.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,1,8+,1,0,No,Yes,Very close
+Male,76.0,1st Year,Economic & Management Sciences,59.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,2,8+,2,0,No,Yes,Very close
+Female,65.0,2nd Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,1-3,0,2,No,No,Close
+Male,87.0,3rd Year,Economic & Management Sciences,74.0,Non-private accommodation ie. Res,R 4001- R 5000,"Yes (NSFAS, etc...)",8+,2,8+,3,0,No,Yes,Very close
+Male,72.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,Unknown,"Yes (NSFAS, etc...)",8+,Only weekends,5-8,0,0,No,Yes,Close
+Female,78.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,2,5-8,4+,4+,Yes,Yes,Very close
+Male,80.0,2nd Year,Engineering,65.0,Non-private accommodation ie. Res,R 4001- R 5000,"Yes (NSFAS, etc...)",3-5,1,1-3,1,4+,Yes,No,Fair
+Female,67.0,1st Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,3,5-8,2,0,No,Yes,Close
+Male,72.0,1st Year,Arts & Social Sciences,64.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,3,8+,0,0,No,Yes,Very close
+Female,75.0,2nd Year,Economic & Management Sciences,75.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,0,1-3,0,0,Yes,Yes,Very close
+Female,82.0,2nd Year,Economic & Management Sciences,72.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,3,1-3,0,0,No,Yes,Close
+Male,82.0,3rd Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,1,3-5,0,0,Yes,Yes,Close
+Female,80.0,3rd Year,Education,74.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,5-8,2,1-3,0,0,No,Yes,Very close
+Female,65.0,3rd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,1-3,0,1,No,No,Very close
+Male,85.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,1,5-8,2,2,No,Yes,Very close
+Male,69.0,2nd Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,0,1,3-5,0,1,Yes,Yes,Very close
+Female,68.0,1st Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",3-5,0,0,0,1,No,No,Very close
+Male,72.0,1st Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,1-3,3,8+,2,0,No,Yes,Very close
+Male,84.0,1st Year,Science,92.0,Non-private accommodation ie. Res,R 5001 - R 6000,No,3-5,Only weekends,8+,0,0,Yes,Yes,Very close
+Male,70.0,3rd Year,Economic & Management Sciences,53.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,1,8+,4+,4+,Yes,Yes,Very close
+Male,82.0,3rd Year,Economic & Management Sciences,77.0,Non-private accommodation ie. Res,R 5001 - R 6000,"Yes (NSFAS, etc...)",8+,0,0,0,0,No,Yes,Close
+Male,84.0,4th Year,Economic & Management Sciences,63.0,Non-private accommodation ie. Res,Unknown,"Yes (NSFAS, etc...)",8+,Only weekends,5-8,0,4+,Yes,Yes,Close
+Female,70.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,Only weekends,1-3,1,0,Yes,Yes,Very close
+Female,78.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,R 8000+,No,5-8,3,5-8,0,4+,No,Yes,Very close
+Female,95.0,2nd Year,Engineering,87.6,Private accommodation/ stay with family/friends,R 8000+,No,8+,Only weekends,1-3,0,0,No,Yes,Very close
+Female,75.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",3-5,Only weekends,1-3,0,0,Yes,No,Close
+Female,80.0,4th Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,1,1-3,1,4+,No,Yes,Very close
+Male,86.0,1st Year,Science,73.0,Non-private accommodation ie. Res,R 7001 - R 8000,No,8+,2,3-5,4+,0,No,Yes,Very close
+Male,84.0,1st Year,Science,76.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,1,3-5,2,0,No,Yes,Very close
+Female,82.0,2nd Year,Arts & Social Sciences,68.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,1,8+,1,3,No,Yes,Very close
+Male,73.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",8+,1,1-3,1,3,No,No,Close
+Female,75.0,1st Year,AgriSciences,63.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,2,1-3,2,0,Yes,Yes,Close
+Male,74.0,1st Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",5-8,1,8+,1,0,No,Yes,Very close
+Male,68.0,1st Year,Economic & Management Sciences,55.0,Non-private accommodation ie. Res,R 4001- R 5000,No,1-3,3,8+,4+,1,No,No,Very close
+Male,78.0,1st Year,Science,76.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,1-3,3,3-5,4+,0,No,No,Very close
+Male,77.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,1,8+,2,0,No,Yes,Close
+Female,79.0,1st Year,Economic & Management Sciences,71.0,Private accommodation/ stay with family/friends,R 8000+,No,8+,2,5-8,0,0,Yes,No,Fair
+Male,78.0,1st Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,3,8+,2,2,No,Yes,Fair
+Male,86.4,1st Year,Engineering,57.0,Non-private accommodation ie. Res,R 4001- R 5000,No,1-3,2,8+,2,0,Yes,Yes,Very close
+Male,82.0,Postgraduate,Engineering,62.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,1,8+,0,1,Yes,Yes,Very close
+Male,,1st Year,Economic & Management Sciences,75.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,1,5-8,0,0,Yes,Yes,Very close
+Male,84.0,1st Year,Science,69.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,"Yes (NSFAS, etc...)",5-8,2,3-5,0,0,No,Yes,Very close
+Male,75.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,4+,5-8,4+,0,Yes,Yes,Close
+Male,81.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,1,8+,2,3,Yes,Yes,Very close
+Female,85.0,2nd Year,Science,76.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,1,1-3,1,2,No,Yes,Very close
+Male,95.5,Postgraduate,Engineering,65.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",8+,3,8+,0,0,Yes,Yes,Fair
+Male,76.0,1st Year,Science,60.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,1,8+,1,1,No,Yes,Close
+Male,87.0,1st Year,Economic & Management Sciences,72.0,Non-private accommodation ie. Res,Unknown,No,5-8,1,5-8,1,0,No,Yes,Very close
+Female,68.0,2nd Year,Arts & Social Sciences,69.0,Private accommodation/ stay with family/friends,Unknown,No,8+,Only weekends,1-3,0,0,Yes,Yes,Fair
+Male,72.0,3rd Year,Law,68.0,Private accommodation/ stay with family/friends,R 8000+,No,8+,3,5-8,0,0,Yes,Yes,Close
+Male,76.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,R 8000+,No,8+,3,5-8,2,1,Yes,Yes,Close
+Female,71.0,1st Year,Education,67.0,Private accommodation/ stay with family/friends,R 4001- R 5000,"Yes (NSFAS, etc...)",5-8,2,5-8,3,1,No,Yes,Very close
+Female,72.0,1st Year,AgriSciences,77.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,1,3-5,0,0,Yes,Yes,Very close
+Female,78.0,2nd Year,Arts & Social Sciences,83.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,Only weekends,3-5,0,0,No,Yes,Very close
+Female,87.0,2nd Year,Science,61.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,3,1-3,0,1,Yes,Yes,Very close
+Female,76.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,Only weekends,1-3,0,0,No,Yes,Very close
+Male,76.0,2nd Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,3,5-8,0,2,No,Yes,Very close
+Female,94.0,2nd Year,Economic & Management Sciences,67.0,Non-private accommodation ie. Res,R 4001- R 5000,No,8+,Only weekends,1-3,0,1,No,Yes,Very close
+Female,78.0,1st Year,Engineering,58.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,2,3-5,2,0,No,Yes,Very close
+Female,84.0,2nd Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,2,5-8,3,0,Yes,Yes,Close
+Female,79.0,2nd Year,Economic & Management Sciences,77.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,1,1-3,0,0,Yes,Yes,Close
+Male,80.0,2nd Year,Science,57.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,1,5-8,1,1,No,Yes,Close
+Male,67.0,1st Year,Economic & Management Sciences,,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,4+,8+,4+,4+,No,Yes,Very close
+Female,76.0,1st Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,2,8+,1,4+,No,Yes,Very close
+Male,72.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,1,8+,0,0,Yes,Yes,Fair
+Male,73.0,1st Year,Arts & Social Sciences,70.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,3-5,2,5-8,1,0,No,Yes,Very close
+Male,78.0,1st Year,Economic & Management Sciences,83.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,3,8+,2,0,Yes,Yes,Very close
+Male,82.0,1st Year,Engineering,73.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,2,3-5,0,0,No,Yes,Very close
+Female,75.0,1st Year,Economic & Management Sciences,89.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,0,3-5,0,0,Yes,Yes,Very close
+Male,67.0,2nd Year,Economic & Management Sciences,81.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,3,5-8,1,1,No,Yes,Very close
+Female,78.0,2nd Year,Economic & Management Sciences,71.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,2,3-5,2,0,No,Yes,Fair
+Female,79.0,1st Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,2,3-5,0,0,Yes,Yes,Very close
+Female,89.0,2nd Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,R 8000+,No,3-5,3,3-5,1,0,Yes,Yes,Very close
+Male,73.0,2nd Year,Medicine and Health Services,62.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,1,5-8,1,0,No,Yes,Close
+Male,85.0,2nd Year,Economic & Management Sciences,58.0,Non-private accommodation ie. Res,R 4001- R 5000,No,8+,1,8+,2,1,No,Yes,Close
+Male,72.0,1st Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,0,1,3-5,0,4+,No,Yes,Fair
+Female,83.0,2nd Year,Arts & Social Sciences,72.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,1-3,1,5-8,2,0,No,Yes,Very close
+Male,83.0,2nd Year,Economic & Management Sciences,55.0,Non-private accommodation ie. Res,R 4001- R 5000,No,3-5,2,3-5,2,2,Yes,Yes,Very close
+Female,78.0,2nd Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,"Yes (NSFAS, etc...)",1-3,1,3-5,1,1,Yes,Yes,Close
+Male,66.0,3rd Year,AgriSciences,61.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,2,8+,1,2,No,Yes,Very close
+Male,80.0,1st Year,Science,55.0,Private accommodation/ stay with family/friends,Unknown,No,3-5,2,8+,3,1,Yes,Yes,Very close
+Female,90.0,3rd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,1,1-3,0,0,Yes,Yes,Very close
+Male,82.0,3rd Year,Engineering,74.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,0,5-8,0,0,Yes,Yes,Close
+Male,77.0,3rd Year,Law,63.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,3-5,1,8+,3,1,No,Yes,Close
+Female,83.0,3rd Year,Engineering,61.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,Only weekends,5-8,1,1,Yes,Yes,Very close
+Male,76.0,2nd Year,Science,58.0,Non-private accommodation ie. Res,R 4001- R 5000,No,3-5,1,5-8,2,0,No,Yes,Very close
+Male,77.0,2nd Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,2,8+,2,2,No,No,Close
+Female,76.0,3rd Year,Science,63.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,3,1-3,0,0,Yes,Yes,Very close
+Female,73.0,1st Year,Engineering,59.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,Only weekends,1-3,0,0,Yes,Yes,Very close
+Male,74.0,2nd Year,Economic & Management Sciences,56.0,Non-private accommodation ie. Res,R 4001- R 5000,"Yes (NSFAS, etc...)",8+,1,1-3,1,0,Yes,No,Fair
+Male,68.0,1st Year,Arts & Social Sciences,54.0,Private accommodation/ stay with family/friends,R 8000+,No,1-3,2,5-8,2,2,No,No,Close
+Female,,2nd Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,0,0,0,4+,No,Yes,Fair
+Male,80.0,2nd Year,Law,60.0,Non-private accommodation ie. Res,R 4001- R 5000,"Yes (NSFAS, etc...)",1-3,1,5-8,0,3,Yes,Yes,Fair
+Female,65.0,2nd Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,0,4+,8+,0,0,No,Yes,Very close
+Male,75.0,3rd Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,1-3,0,0,No,Yes,Very close
+Male,76.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,Unknown,No,1-3,3,8+,2,0,Yes,No,Very close
+Male,71.0,1st Year,Economic & Management Sciences,77.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,2,3-5,1,0,No,Yes,Very close
+Female,85.0,2nd Year,Engineering,60.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,Only weekends,5-8,0,2,No,Yes,Close
+Male,70.0,1st Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,Only weekends,1-3,1,0,Yes,No,Very close
+Female,74.0,2nd Year,Medicine and Health Services,69.7,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,5-8,3,8+,2,0,Yes,Yes,Very close
+Male,86.0,2nd Year,Economic & Management Sciences,85.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,0,1,3-5,0,2,Yes,Yes,Fair
+Male,83.0,2nd Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,3,8+,2,1,Yes,Yes,Close
+Male,78.0,2nd Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,1,5-8,0,3,No,Yes,Close
+Male,83.0,2nd Year,Economic & Management Sciences,63.0,Non-private accommodation ie. Res,R 4001- R 5000,No,1-3,4+,3-5,1,0,No,No,Very close
+Male,78.0,3rd Year,Economic & Management Sciences,66.0,Private accommodation/ stay with family/friends,Unknown,No,8+,2,0,0,1,No,Yes,Fair
+Female,76.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,3-5,3,3-5,2,0,Yes,Yes,Close
+Male,78.0,1st Year,Economic & Management Sciences,85.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,2,5-8,1,0,No,Yes,Very close
+Male,75.0,3rd Year,Engineering,59.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,Only weekends,3-5,0,2,Yes,No,Close
+Female,87.0,2nd Year,Economic & Management Sciences,74.0,Non-private accommodation ie. Res,R 4001- R 5000,No,3-5,2,1-3,0,0,No,No,Fair
+Male,77.0,1st Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,0,4+,1-3,0,0,Yes,Yes,Very close
+Male,85.0,Postgraduate,AgriSciences,78.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,3,8+,0,0,Yes,Yes,Very close
+Male,,2nd Year,Arts & Social Sciences,50.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,2,5-8,0,3,No,Yes,Fair
+Male,80.0,2nd Year,Science,50.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,1,1-3,0,3,No,No,Close
+Female,80.0,3rd Year,Law,75.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,8+,Only weekends,1-3,1,1,No,No,Fair
+Male,75.0,1st Year,Science,63.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,Only weekends,3-5,0,0,No,Yes,Very close
+Male,76.0,1st Year,Science,56.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,0,0,0,1,No,Yes,Very close
+Female,83.0,1st Year,Arts & Social Sciences,61.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,8+,3,3-5,0,0,No,Yes,Very close
+Male,80.0,1st Year,Arts & Social Sciences,74.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,2,5-8,1,0,Yes,Yes,Very close
+Female,70.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,Only weekends,3-5,0,0,No,Yes,Close
+Male,86.0,2nd Year,Economic & Management Sciences,69.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,2,8+,2,0,Yes,Yes,Very close
+Female,85.0,1st Year,Medicine and Health Services,60.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,2,3-5,3,0,Yes,Yes,Very close
+Male,79.0,1st Year,Economic & Management Sciences,83.0,Private accommodation/ stay with family/friends,R 7001 - R 8000,No,8+,3,1-3,0,0,Yes,Yes,Very close
+Male,70.0,2nd Year,Economic & Management Sciences,56.0,Private accommodation/ stay with family/friends,R 8000+,No,3-5,4+,8+,2,3,No,Yes,Very close
+Female,75.0,1st Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,Only weekends,3-5,0,2,Yes,Yes,Very close
+Female,78.0,2nd Year,Medicine and Health Services,79.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,1-3,1,1-3,0,0,Yes,Yes,Very close
+Male,76.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,3-5,1,5-8,1,1,No,Yes,Very close
+Male,76.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,1,1-3,0,0,No,Yes,Very close
+Female,85.0,1st Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,R 8000+,No,1-3,3,3-5,2,0,Yes,Yes,Close
+Female,86.0,1st Year,Science,71.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,8+,1,0,0,0,Yes,Yes,Very close
+Male,78.0,3rd Year,Law,66.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,0,1,1-3,1,0,Yes,Yes,Close
+Male,64.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,R 8000+,No,0,4+,8+,0,1,Yes,Yes,Very close
+Female,78.0,1st Year,Economic & Management Sciences,51.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,2,5-8,1,0,No,Yes,Close
+Male,76.0,1st Year,Science,58.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,1-3,2,8+,1,1,No,Yes,Close
+Male,75.0,2nd Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,R 8000+,No,0,4+,8+,4+,0,No,No,Very close
+Female,78.0,2nd Year,Medicine and Health Services,74.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,1-3,Only weekends,1-3,0,0,No,Yes,Very close
+Male,86.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,R 4001- R 5000,No,5-8,2,3-5,2,0,Yes,Yes,Fair
+Female,74.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,No,5-8,Only weekends,1-3,0,3,No,No,Close
+Female,73.0,2nd Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,R 6001 - R 7000,"Yes (NSFAS, etc...)",5-8,1,8+,0,0,Yes,Yes,Very close
+Female,80.0,1st Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,R 5001 - R 6000,No,3-5,Only weekends,3-5,1,0,No,No,Close
